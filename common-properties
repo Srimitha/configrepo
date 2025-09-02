@@ -1,4 +1,4 @@
-username=sa
+machinename=sa
 servername=DESKTOP-UVVCE5A\SQLEXPRESS
 dbname=VehicleDB
 vaulturl=http://localhost:8200
