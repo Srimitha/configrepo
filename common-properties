@@ -1,7 +1,7 @@
-username=sa
+machinename=sa
 servername=DESKTOP-UVVCE5A\SQLEXPRESS
 dbname=VehicleDB
-vaulturl=http://localhost:8200
+vaulturl=http://host.docker.internal:8200
 roottoken=root
 secretpath=secret/sqlserversecret
 mountpath=secret
